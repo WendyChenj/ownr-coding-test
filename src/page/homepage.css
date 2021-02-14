@@ -1,0 +1,12 @@
+.homepage {
+  width: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttonsGroup {
+  margin: 2rem 1rem;
+}
+
